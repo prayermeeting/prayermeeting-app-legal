@@ -1,0 +1,1 @@
+# prayermeeting-app-legal
